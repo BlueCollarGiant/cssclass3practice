@@ -99,7 +99,7 @@ nav {
   }
 
   .dropdown {
-    visibility: hidden;
+    visibility: hidden; /* changed this to visibility because display isnt able to be an animation */
     opacity: 0;
     position: absolute;
     top: 100%;
@@ -147,3 +147,4 @@ nav {
 
   }  /* finished sixth decided to see if i could add the next practices onto it*/
     /* finished 7th looks like im making a website lol */
+    /* finished 8th but lost alot of time to the challenge*/
